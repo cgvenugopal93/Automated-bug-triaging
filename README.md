@@ -10,7 +10,7 @@ Clone the repository and navigate to _***AutomatedBugTriaging/Code***_ folder
 
 ```sh
 $ git clone https://github.com/cgvenugopal93/Automated-bug-triaging.git
-$ cd AutomatedBugTriaging/Code/
+$ cd AutomatedBugTriaging/src/
 $ python run.py
 ```
 
